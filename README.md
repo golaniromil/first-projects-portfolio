@@ -16,4 +16,4 @@ Welcome to my first projects portfolio! This repository showcases my learning jo
 - **Skills Used:** Pivot Tables, Charts, Conditional Formatting, Data Cleaning  
 - **Screenshot:**  
   ![Hotel Dashboard](images/hotel_dashboard.png)  
-- **File:** [Hotel_Booking_Dashboard.xlsx](Excel/Hotel%20Booking%20Project.xlsx)
+- **File:** [Hotel_Booking_Dashboard.xlsx](Hotel%20Booking%20Project.xlsx)
